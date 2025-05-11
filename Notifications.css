@@ -1,0 +1,19 @@
+.notifications {
+    position: relative;
+  }
+  
+  .notifications .dropdown {
+    position: absolute;
+    right: 0;
+    background: white;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    list-style: none;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  .notifications .dropdown li {
+    padding: 5px 10px;
+  }
+  
